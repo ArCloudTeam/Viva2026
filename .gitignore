@@ -198,3 +198,7 @@ Temporary Items
 *.bak
 *.tmp
 *.swp
+.vsconfig
+ProjectSettings/EditorBuildSettings.asset
+ProjectSettings/ShaderGraphSettings.asset
+*.asset
